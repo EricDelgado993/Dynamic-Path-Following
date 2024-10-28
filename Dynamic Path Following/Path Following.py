@@ -1,5 +1,4 @@
 #==========================================================
-# CS 330-01 Programming Assignment 2
 # Dynamic Movement Path Following Movement Update Algorithm
 # Eric Delgado
 # 10/24/2024 
