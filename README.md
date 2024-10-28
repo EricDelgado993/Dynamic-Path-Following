@@ -11,5 +11,5 @@
   - <b>Integration with Dynamic Character Movement:</b>  Builds on prior Seek behavior, movement update, and Newton-Euler-1 integration techniques for a cohesive simulation experience.
   - <b>Trajectory Tracking:</b> enerates a trajectory text file for character movement over 125 seconds, with time steps of 0.5 seconds. Each time step records position, velocity, and orientation.
 
-<br><b>Plot of Character Movement After 50 Seconds</b></br>
+<br><b>Plot of Character Movement After 125 Seconds</b></br>
 ![Character Movement Plot](https://github.com/user-attachments/assets/e5228114-3cd4-4352-b199-48cd50673724)
