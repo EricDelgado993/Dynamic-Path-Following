@@ -32,8 +32,8 @@ The character's simulated trajectories are recorded in a `.txt` file in CSV form
 ## Program Details
 
 ### Requirements:
-- Implement the dynamic Follow Path behavior using the "chase the rabbit" algorithm, as outlined in Lecture 8 and textbook section 3.3.12.
-- The Follow Path behavior relies on and reuses the Seek behavior, movement update, and other relevant functionality from Program 1.
+- Implement the dynamic Follow Path behavior using the "chase the rabbit" algorithm.
+- The Follow Path behavior relies on and reuses the Seek behavior, movement update, and other relevant functionality from the [Dynamic Character Movement Program](https://github.com/EricDelgado993/Dynamic-Movement).
 - The simulation should run for 125 seconds with a time step of 0.5 seconds.
 - Initial conditions for the character:
   - Character ID: 1
