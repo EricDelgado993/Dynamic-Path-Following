@@ -7,7 +7,7 @@ The character's simulated trajectories are recorded in a `.txt` file in CSV form
 
 ---
 
-## Project Files
+## 📂 Project Files
   - [Dynamic Path Following Program](https://github.com/EricDelgado993/Dynamic-Path-Following/blob/main/Dynamic%20Path%20Following/Path%20Following.py)
   - [Character Movement Plot Data](https://github.com/EricDelgado993/Dynamic-Path-Following/blob/main/Dynamic%20Path%20Following/results.txt)
 
