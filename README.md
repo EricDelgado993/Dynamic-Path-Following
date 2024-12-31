@@ -5,9 +5,13 @@ This project implements a dynamic path-following behavior for a character using 
 
 The character's simulated trajectories are recorded in a `.txt` file in CSV format, which can be used to visualize and analyze the movement over a duration of 125 simulated seconds.
 
+---
+
 ## Project Files
   - [Dynamic Path Following Program](https://github.com/EricDelgado993/Dynamic-Path-Following/blob/main/Dynamic%20Path%20Following/Path%20Following.py)
   - [Character Movement Plot Data](https://github.com/EricDelgado993/Dynamic-Path-Following/blob/main/Dynamic%20Path%20Following/results.txt)
+
+---
 
 ## Features
 
@@ -29,6 +33,8 @@ The character's simulated trajectories are recorded in a `.txt` file in CSV form
 ### 6. Plotting Character Movement
 - The program outputs a plot of the character's movement after the full 125-second simulation.
 
+---
+
 ## Program Details
 
 ### Requirements:
@@ -49,6 +55,8 @@ The character's simulated trajectories are recorded in a `.txt` file in CSV form
 
 ### Expected Output:
 - The program generates a text file containing the character’s trajectory over the 125-second duration, capturing position, velocity, and orientation for each time step.
+
+---
 
 ### Plot of Character Movement After 125 Seconds
 ![Character Movement Plot](https://github.com/user-attachments/assets/e5228114-3cd4-4352-b199-48cd50673724)
