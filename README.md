@@ -29,7 +29,7 @@ The character's simulated trajectories are recorded in a `.txt` file in CSV form
 ### 6. Plotting Character Movement
 - The program outputs a plot of the character's movement after the full 125-second simulation.
 
-## Assignment Details
+## Program Details
 
 ### Requirements:
 - Implement the dynamic Follow Path behavior using the "chase the rabbit" algorithm, as outlined in Lecture 8 and textbook section 3.3.12.
