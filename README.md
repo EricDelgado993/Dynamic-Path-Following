@@ -59,4 +59,4 @@ The character's simulated trajectories are recorded in a `.txt` file in CSV form
 ---
 
 ## Plot of Character Movement After 125 Seconds
-![Character Movement Plot](https://github.com/user-attachments/assets/e5228114-3cd4-4352-b199-48cd50673724)
+![](https://github.com/user-attachments/assets/e5228114-3cd4-4352-b199-48cd50673724)
